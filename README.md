@@ -1,0 +1,2 @@
+# webcamjs
+Para tomar fotografias
